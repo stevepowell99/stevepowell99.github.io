@@ -24,6 +24,8 @@ You'll be able to make and edit your own causal maps for free. If you want extra
 
 # What is the theory behind it?
 
+
+
 ## How does the causal map app differ from other software?
 
 It facilitates the process of reading in narrative data from different sources, e.g. interviewees, identifying fragments of causal information within them, 
@@ -31,4 +33,3 @@ and then amalgamating / aggregating the information to create a causal network d
 So it is possible to, for example, display only the information from the female respondents. 
 
 ## Papers
-
