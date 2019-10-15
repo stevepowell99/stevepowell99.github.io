@@ -1,8 +1,10 @@
 # What is the causal map app?
 
-It's a new online tool for social science researchers and programme evaluators.
+It's a new online research tool, a way to code, analyse and visualise fragments of information about what causes what.
 
-A way to code, analyse and visualise fragments of information about what causes what.
+- social science researchers use it to make sense of what interviewees tell them
+
+- programme evaluators use it to visualise stakeholders' claims about how a programme works and create collective "theories of change"
 
 ![frontpage](assets/frontpage.png)
 
