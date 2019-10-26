@@ -164,7 +164,7 @@ A causal map is a directed graph which is intended to model causal relationships
 
 The **causal map app** is a tool which helps social scientists and programme evaluators to extract causal claims from texts (e.g. interview data) from different sources, and to combine and present it visually.
 
-# Outlook
+<!-- # Outlook
 
 ## Maps of maps
 
@@ -244,3 +244,4 @@ https://www.lukecraven.com/system-effects/
 
 The raw output of a QuIP-type coding exercise is a set of directed paths or arrows between a set of nodes or factors, in which the arrows might have additional attributes like respondent characteristics, question number / domain etc. One or more arrows B, maybe also C, D, ..… coming into a node E encode a causal claim about how B (and maybe C and D..…) influence E. 
 
+ -->
