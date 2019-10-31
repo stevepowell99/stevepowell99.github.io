@@ -32,7 +32,7 @@ You use Dedoose or Nvivo to tag, organise and understand the information from in
 
 You use Kumu.io or Visio or Powerpoint to construct and present information about a network.
 
-You use the `**causal map app**` to organise, understand and present information about "what causes what", from interviewees or other sources, as a causal network. Nvivo can't do that. Kumu.io can't do that. We know of no other software which can do that!
+You use the **causal map app** to tag, organise, understand and present information about "what causes what", from interviewees or other sources, as a causal network. Nvivo can't do that. Kumu.io can't do that. We know of no other software which can do that!
 
 With the **causal map app**, you can:
 
@@ -40,7 +40,7 @@ With the **causal map app**, you can:
 - **highlight causal claims**, like using a highlighter pen, and associate them with links between items: the two ore more things which cause one another, according to this interviewee
 - automatically combine & display the multiple claims as a **causal map**,
 - **filter** the claims according to source, e.g. show only claims from women
-- **colour-code** the claims according to source
+- **colour-code** the claims according to source, e.g. make the colour of an item vary according to the average age of the people mentioning it.
 
 # What problems can the **causal map app** help solve?
 
@@ -112,7 +112,7 @@ we can usually deduce
 
 ... but the kinds of inferences we can make may differ between the different causal map paradigms.
 
-### Modularity
+### Modularity: maps are built up from generic elements
 
 Causal maps are built up from generic atomic elements. Causal map paradigms tell us first what the individual elements mean (e.g. an arrow between X and Y means "X causes Y") and then how to understand a composite map constructed from these elements. So we probably wouldn't call a logframe a "causal map", not least because the elements are not generic, they have a specific structure and role (outcomes, inputs etc).
 
@@ -124,7 +124,7 @@ In the approaches listed above, the information underlying them can usually be c
 
 A causal *multi-map*, on the other hand, is a more general kind of causal map; a *list* or *database* of fragments of causal information, in which information about the source is firmly attached to each fragment and taken very seriously. 
 
-If the homeopathist tells us that the right potency of gold is a cause of a well functioning liver, and the doctor tells us that a well functioning liver is a cause of clean blood, does that mean we know that the right potency of gold is a cause of clean blood? No, we can't necessarily deduce from:
+If the homoeopath tells us that the right potency of gold is a cause of a well functioning liver, and the doctor tells us that a well functioning liver is a cause of clean blood, does that mean we know that the right potency of gold is a cause of clean blood? No, we can't necessarily deduce from:
 
 >H believes that X causally influences Y
 
@@ -156,11 +156,13 @@ The **causal map app** incorporates some of our own suggestions for aggregating 
 
 ### Text highlighting
 
-The app can import "ready-made" causal fragments already encoded as sets of links between nodes and provided in a spreadsheet format. But most frequently, users do not yet have those links; they only have piles of textual data, e.g. from a series of interviews. So the app incorporates the kind of text-highlighting familiar from other social science tools, but instead of merely associating an section of text with a *category*, in the causal map app you can associate it with a *link* between two (or more) causal factors. In this way, the app supports users with all the steps from raw text data to a finished, aggregated map.
+The app can import "ready-made" causal fragments already encoded as sets of links between nodes and provided in a spreadsheet format. But most frequently, users do not yet have those links; they only have piles of textual data, e.g. from a series of interviews. So the app incorporates the kind of text-highlighting familiar from other social science tools. But where traditional qualitative coding approaches are good at identifying things -– concepts, phenomena -– the causal map app helps researchers also identify the causal links between those things: instead of merely associating an section of text with a *category*, in the causal map app you associate it with a *link* between two (or more) causal factors. 
+
+In this way, the app supports users with all the steps from raw text data to a finished, aggregated map.
 
 ## Summary
 
-A causal map is a directed graph which is intended to model causal relationships, in which the items (nodes, elements) are linked by arrows which mean that the item at the start of the arrow causally influences the item at the end of the arrow; this is a broad definition which covers many different existing "paradigms" of causal modelling; in general, the individual causal connections in a causal map may be based on information from more than one source.
+A causal map is a directed graph which is intended to model causal relationships, in which the items (nodes, elements) are linked by arrows which mean that the item at the start of the arrow causally influences the item at the end of the arrow. This is a broad definition which covers many different existing "paradigms" of causal modelling. In general, the individual causal connections in a causal map may be based on information from more than one source.
 
 The **causal map app** is a tool which helps social scientists and programme evaluators to extract causal claims from texts (e.g. interview data) from different sources, and to combine and present it visually.
 
