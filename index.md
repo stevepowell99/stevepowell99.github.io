@@ -160,7 +160,23 @@ The app can import "ready-made" causal fragments already encoded as sets of link
 
 In this way, the app supports users with all the steps from raw text data to a finished, aggregated map.
 
-## Summary
+# Using the app, in four pictures
+
+First, you upload or paste the short text passages or "statements" which you want to analyse for the causal claims which they contain.
+
+![1573059919382](assets/PASTE.PNG)
+
+Next, you view each statement one by one, highlighting passages which contain causal claims. For each claim, you decide what is the cause and what is the effect.![1573061244821](assets/1573061244821.png)
+
+Each causal claim becomes part of a small, "live" causal map in the right-hand window which grows as you work.
+
+![1573060610020](assets/1573060610020.png)
+
+Last, you can view the whole map built up from all the causal claims you have been reviewing. You can search, change, edit and simplify the codes you have been using, as well as getting an overall picture: what caused what in these stories? You can also conduct more sophisticated analyses and produce graphics and reports, answering questions like: *did the stories which the women told differ from those which the men told*?
+
+![1573061020009](assets/1573061020009.png)
+
+# Summary
 
 A causal map is a directed graph which is intended to model causal relationships, in which the items (nodes, elements) are linked by arrows which mean that the item at the start of the arrow causally influences the item at the end of the arrow. This is a broad definition which covers many different existing "paradigms" of causal modelling. In general, the individual causal connections in a causal map may be based on information from more than one source.
 
