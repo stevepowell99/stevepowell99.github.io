@@ -31,7 +31,7 @@ Professional evaluators and programme staff collect stories of change from stake
 
 ## Who is behind the **causal map app**?
 
-[Steve Powell](http://www.pogol.net/steve) is working with Fiona [Remnant](https://bathsdr.org/about-bathsdr/our-team/) from Bath SDR Ltd and [James Copestake](https://researchportal.bath.ac.uk/en/persons/james-copestake) at the University of [Bath](https://www.bath.ac.uk/research-centres/centre-for-development-studies/) to bring causalmap.app to life. It will provide an accessible coding and analysis solution for users of [QuIP](https://bathsdr.org/about-the-quip/), but is a standalone product designed to be used by any researchers interested in causal connections.
+You use Kumu.io or Visio or Powerpoint to construct and present information about a network.
 
 ## When will **causalmap.app be available**?
 
